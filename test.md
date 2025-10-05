@@ -6,3 +6,5 @@
 4. Call `InitWeb3()` in debugger console
 5. Access the DSA object via `window.dsa`
 6. Note that you need to call dsa= new DSA(web3) again. (fix coming up)
+
+<!-- Auto-update: 2025-10-05T16:04:13.274949 -->
